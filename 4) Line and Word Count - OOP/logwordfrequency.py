@@ -4,7 +4,8 @@ from collections import Counter
 class LogWordFrequency(LogAnalysis):
 
     def print_word_frequency(self):
-        conteudo = self.path.read()
+        arquivo = open(self.path, 'r')
+        conteudo = arquivo.read()
         conteudo = conteudo.replace('\n',' ')
         listaconteudo = []
         for line in conteudo.split():
