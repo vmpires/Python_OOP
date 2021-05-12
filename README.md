@@ -13,3 +13,7 @@ Repositório destinado a exercícios de Programação Orientada a Objetos.
 
 6) Exercício de Lista encadeada com Orientação em Objetos: Esse programa cria uma estrutura de lista encadeada e possibilita chamada de itens, alteração de itens, pesquisa de tamanho e soma dos itens.
 
+7) Exercício de lista encadeada (numeros pares): função que imprime apenas os números pares de uma lista encadeada
+
+8) Exercício de árvore binária (numeros pares): função que imprime apenas os números pares de uma árvore binária
+
